@@ -1,6 +1,6 @@
 <!-- Banner tipo cómic -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A75&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Karen!;Futura+Programadora%F0%9F%9A%80;+AAAAAAAAAAAAA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A75&center=true&vCenter=true&width=435&lines=Hello+World+I'm+Karen!;Futura+Programadora+:3;+AAAAAAAAAAAAA" alt="Typing SVG" />
 </p>
 
 ---
