@@ -39,14 +39,11 @@
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareenxc&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareenxc&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![Karenperezor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karenperezor&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareenxc&theme=tokyonight" height="180"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karenperezor&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karenperezor&theme=tokyonight)
 
 ---
 
