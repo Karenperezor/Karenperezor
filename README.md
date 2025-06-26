@@ -1,6 +1,6 @@
 <!-- 👩‍💻 Autopresentación tipo cómic animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A75&center=true&vCenter=true&width=435&lines=+Hello+World+I'm+Karen!;Futura+Programadora+;Aprendiendo+AAAAAAAAAAAA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A75&center=true&vCenter=true&width=435&lines=+Hello+World+I'm+Karen!;Futura+Programadora+;AAAAAAAAAAAA" alt="Typing SVG" />
 </p>
 
 ---
