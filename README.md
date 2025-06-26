@@ -1,12 +1,12 @@
 <!-- 👩‍💻 Autopresentación tipo cómic animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A75&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Kareen!;Futura+Programadora+en+proceso+%F0%9F%9A%80;Aprendiendo+con+ganas+y+emojis+%F0%9F%A4%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71A75&center=true&vCenter=true&width=435&lines=+Hello+World+I'm+Karen!;Futura+Programadora+;Aprendiendo+AAAAAAAAAAAA" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat coding gif" />
+  <img src="https://media1.tenor.com/m/42Stm2BO2eoAAAAd/rainbow.gif" width="300" alt="Cat coding gif" />
 </p>
 
 ---
